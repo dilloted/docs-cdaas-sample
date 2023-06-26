@@ -1,7 +1,7 @@
 name: DeployAimeeLocalCluster
 
 on:
-  push: # What triggers a deployment. For example, `push`. test
+  push: # What triggers a deployment. For example, `push`. test1
     branches:
       - aimeeLocalCluster # What branch triggers a deployment. For example, `main`.
 
