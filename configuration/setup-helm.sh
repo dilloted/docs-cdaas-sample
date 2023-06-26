@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash test
 if [ "$#" -ne 2 ]; then
     echo "Format is setup.sh <clientID> <clientSecret> where clientID and clientSecret are the CD-as-a-Service credentials for the sample app."
     exit 1
